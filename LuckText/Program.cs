@@ -1,5 +1,6 @@
 ﻿string name;
 
+
 Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine("Skriv in ditt namn: ");
 
